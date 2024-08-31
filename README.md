@@ -1,2 +1,2 @@
 # SimpleMeditation
-A simple meditation companoin app
+A simple meditation companion app
